@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Simple VitePress TestDaniel",
+  title: "Simple VitePress Test2Daniel",
   description: "Training Page for FH Cloud Administration",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
