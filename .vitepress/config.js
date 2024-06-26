@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/Beispiel-Repository-Template/"
+  base: "/Beispiel-Repository-Template/",
   title: "Simple VitePress TestManuel",
   description: "Training Page for FH Cloud Administration",
   themeConfig: {
